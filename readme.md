@@ -45,7 +45,8 @@
   - Visualización de noticias relevantes por región
 
 ### 🧠 Desarrollo no previsto (implementado) 
-- **Algoritmo de Popularidad con Gravedad por Atenuacion Temporal para noticias [Click aqui](https://github.com/labrujasiete/algoritmo-de-popularidad)**
+- **Algoritmo de Popularidad con Gravedad por Atenuacion Temporal para noticias.**
+[Reporte Técnico Click aqui para leer](https://github.com/labrujasiete/algoritmo-de-popularidad)
   - No contemplado en la fase inicial de desarrollo
   - Diseñado, implementado y probado exitosamente
 

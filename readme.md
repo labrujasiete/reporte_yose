@@ -60,6 +60,7 @@
 ### 🚨 Crítico para lanzamiento
 - Página de perfil creado (cada tag o etiqueta)
 - Sistema de notificaciones
+- Compresión de videos subidos
 
 ### ⚠️ Secundario (requerido pero no bloqueante para lanzamiento)
 - Funcionalidad para seguir etiquetas
@@ -79,7 +80,6 @@
   - Por categorías (política, deporte, tecnología, entretenimiento)
   - Noticias locales por ubicación detectada
 
-- Compresión de videos subidos
 - Edición y recorte de videos en la app
 - Configuración de longitud máxima de videos
 - Configuración de InputFormatters en campos de texto

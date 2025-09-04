@@ -44,6 +44,9 @@
 - **Página Home**
   - Visualización de noticias relevantes por región
 
+- **Página individual de noticia**
+  - Visualización de el post o la noticia de forma individual con la ruta pertinente
+
 ### 🧠 Desarrollo no previsto (implementado) 
 - **Algoritmo de Popularidad con Gravedad por Atenuacion Temporal para noticias.**
 [Reporte Técnico Click aqui para leer](https://github.com/labrujasiete/algoritmo-de-popularidad)
@@ -56,7 +59,6 @@
 
 ### 🚨 Crítico para lanzamiento
 - Página de perfil creado (cada tag o etiqueta)
-- Página individual de noticia (vista completa)
 - Sistema de notificaciones
 
 ### ⚠️ Secundario (requerido pero no bloqueante para lanzamiento)
